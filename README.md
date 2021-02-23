@@ -2,9 +2,7 @@
 
 Use this template by clicking the green `Template` button above ^
 
-Name your repo in the format `<project_name>_<repo_name>` for example **vortan_spellchecker**.
-
-This helps keep things organized when you have many repos for one project.
+Name your repo in the format `<project_name>_<repo_name>` for example **vortan_spellchecker**. This helps keep things organized when you have many repos for one project.
 
 ## About
 
