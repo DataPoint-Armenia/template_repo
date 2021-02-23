@@ -24,6 +24,7 @@ _A list of links to external documantation for your project_
 - **Project Spec**: [link](google.com)
 - **Technical Spec**: [link](google.com)
 - **Google Drive Folder**: [link](google.com)
+- **Slack Channel**: #template
 
 ## Getting Started
 
@@ -56,7 +57,7 @@ const API_KEY = 'ENTER YOUR API';
 
 ## Usage
 
-_Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources._
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 ## Contributors
 
@@ -66,6 +67,6 @@ _Use this space to show useful examples of how a project can be used. Additional
 
 ## Achnowledgements
 
-_List all the resources you used such as papers, other repos, tutorials, etc_
+List all the resources you used such as papers, other repos, tutorials, etc
 
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
