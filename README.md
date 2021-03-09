@@ -18,9 +18,8 @@ _Description of your project._
 
 ## Documentation
 
-_A list of links to external documantation for your project_
+_A list of links to external documentation for your project_
 
-- **Project Spec**: [link](google.com)
 - **Project Spec**: [link](google.com)
 - **Technical Spec**: [link](google.com)
 - **Google Drive Folder**: [link](google.com)
@@ -30,11 +29,13 @@ _A list of links to external documantation for your project_
 
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
-### Prerequisits
+### How to Guide
 
 This is an example of how to list things you need to use the software and how to install them.
 
+
 - [npm](https://www.npmjs.com/)
+
 ```
 npm install npm@latest -g
 ```
